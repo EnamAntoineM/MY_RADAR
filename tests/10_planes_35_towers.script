@@ -1,0 +1,45 @@
+A 1070 290 1470 480 6 10 // turkey -> thailand
+A 1070 290 1390 300 6 18 // turkey -> mongolia
+A 690 640 650 110 3 2 // brazil -> groenland
+A 230 200 1035 165 5 11 // canada -> estonia
+A 495 550 945 545 4 4 // colombia -> nigeria
+A 820 490 1035 165 3 13 // senegal -> estonia
+A 820 490 1035 165 6 20 // senegal -> estonia
+A 230 200 510 860 5 20 // canada -> chile
+A 250 315 510 860 4 1 // los-angeles -> chile
+A 495 550 880 330 4 0 // colombia -> maroc
+T 1680 310 75 // japan
+T 1160 750 37 // madagascar
+T 880 330 56 // maroc
+T 920 220 82 // france
+T 1020 830 63 // south-africa
+T 1190 405 67 // dubai
+T 1855 920 52 // new-zealand
+T 1735 855 63 // sydney
+T 650 110 37 // groenland
+T 1540 405 90 // china
+T 1500 630 60 // jakarta
+T 495 550 52 // colombia
+T 1695 635 45 // new-guinea
+T 340 435 67 // mexico
+T 1125 190 60 // moscow
+T 1340 500 75 // india
+T 27 135 60 // alaska
+T 510 860 45 // chile
+T 1035 165 37 // estonia
+T 1090 580 37 // uganda
+T 1565 825 52 // perth
+T 1070 375 60 // egypt
+T 820 490 56 // senegal
+T 230 200 82 // canada
+T 1470 480 60 // thailand
+T 495 675 52 // peru
+T 1070 290 56 // turkey
+T 1160 550 45 // somalia
+T 990 660 45 // angola
+T 250 315 75 // los-angeles
+T 690 640 63 // brazil
+T 470 310 97 // new-york
+T 620 795 56 // argentina
+T 945 545 56 // nigeria
+T 1390 300 52 // mongolia

@@ -1,0 +1,20 @@
+A 495 550 945 545 3 18 // colombia -> nigeria
+A 1035 165 495 550 5 8 // estonia -> colombia
+A 945 545 1160 550 5 20 // nigeria -> somalia
+A 920 220 230 200 3 9 // france -> canada
+A 1390 300 230 200 3 9 // mongolia -> canada
+A 1035 165 495 550 6 7 // estonia -> colombia
+A 1565 825 1035 165 5 3 // perth -> estonia
+A 1390 300 1035 165 5 19 // mongolia -> estonia
+A 945 545 230 200 3 19 // nigeria -> canada
+A 340 435 1160 750 3 0 // mexico -> madagascar
+T 1565 825 52 // perth
+T 340 435 67 // mexico
+T 1160 750 37 // madagascar
+T 945 545 56 // nigeria
+T 920 220 82 // france
+T 1390 300 52 // mongolia
+T 495 550 52 // colombia
+T 230 200 82 // canada
+T 1160 550 45 // somalia
+T 1035 165 37 // estonia

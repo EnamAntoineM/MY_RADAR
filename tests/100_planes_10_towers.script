@@ -1,0 +1,110 @@
+A 1160 550 250 315 116 16 // somalia -> los-angeles
+A 250 315 1070 290 115 2 // los-angeles -> turkey
+A 1500 630 470 310 511 20 // jakarta -> new-york
+A 1565 825 1070 290 311 17 // perth -> turkey
+A 1565 825 1070 290 511 13 // perth -> turkey
+A 1340 500 1565 825 611 6 // india -> perth
+A 250 315 1500 630 311 5 // los-angeles -> jakarta
+A 250 315 1070 290 311 10 // los-angeles -> turkey
+A 1470 480 690 640 611 18 // thailand -> brazil
+A 1565 825 1470 480 511 16 // perth -> thailand
+A 230 200 1470 480 411 9 // canada -> thailand
+A 1500 630 1070 290 411 4 // jakarta -> turkey
+A 470 310 1160 550 311 0 // new-york -> somalia
+A 1070 290 1160 550 311 18 // turkey -> somalia
+A 1160 550 690 640 522 8 // somalia -> brazil
+A 1160 550 1565 825 622 5 // somalia -> perth
+A 250 315 1160 550 322 1 // los-angeles -> somalia
+A 1500 630 1565 825 533 0 // jakarta -> perth
+A 690 640 1160 550 333 15 // brazil -> somalia
+A 230 200 1160 550 411 13 // canada -> somalia
+A 1160 550 1565 825 5 0 // somalia -> perth
+A 1470 480 250 315 4 7 // thailand -> los-angeles
+A 1070 290 1470 480 4 8 // turkey -> thailand
+A 1500 630 1340 500 6 10 // jakarta -> india
+A 470 310 1500 630 5 8 // new-york -> jakarta
+A 1340 500 250 315 6 10 // india -> los-angeles
+A 690 640 1160 550 5 15 // brazil -> somalia
+A 1500 630 1470 480 3 8 // jakarta -> thailand
+A 1070 290 230 200 3 6 // turkey -> canada
+A 1160 550 1340 500 3 5 // somalia -> india
+A 1340 500 1070 290 3 12 // india -> turkey
+A 470 310 1470 480 5 13 // new-york -> thailand
+A 1340 500 1160 550 4 9 // india -> somalia
+A 1340 500 1160 550 3 13 // india -> somalia
+A 690 640 1070 290 5 17 // brazil -> turkey
+A 470 310 1340 500 6 19 // new-york -> india
+A 1470 480 1500 630 6 17 // thailand -> jakarta
+A 690 640 1500 630 6 7 // brazil -> jakarta
+A 1500 630 1470 480 6 14 // jakarta -> thailand
+A 1470 480 1340 500 5 4 // thailand -> india
+A 1070 290 230 200 5 15 // turkey -> canada
+A 230 200 1470 480 3 17 // canada -> thailand
+A 1070 290 1160 550 6 8 // turkey -> somalia
+A 1070 290 230 200 4 2 // turkey -> canada
+A 1340 500 470 310 5 20 // india -> new-york
+A 1470 480 470 310 6 7 // thailand -> new-york
+A 690 640 1160 550 5 15 // brazil -> somalia
+A 230 200 1565 825 5 5 // canada -> perth
+A 690 640 1160 550 5 16 // brazil -> somalia
+A 1340 500 690 640 5 18 // india -> brazil
+A 1500 630 1470 480 5 20 // jakarta -> thailand
+A 1340 500 250 315 3 3 // india -> los-angeles
+A 1340 500 1470 480 5 1 // india -> thailand
+A 690 640 1500 630 4 3 // brazil -> jakarta
+A 1160 550 470 310 6 10 // somalia -> new-york
+A 1470 480 1340 500 5 14 // thailand -> india
+A 1565 825 250 315 6 14 // perth -> los-angeles
+A 1070 290 1160 550 5 1 // turkey -> somalia
+A 1470 480 690 640 4 17 // thailand -> brazil
+A 1470 480 1340 500 4 17 // thailand -> india
+A 1500 630 1160 550 6 5 // jakarta -> somalia
+A 1340 500 1565 825 5 11 // india -> perth
+A 1470 480 690 640 6 4 // thailand -> brazil
+A 1340 500 1070 290 3 20 // india -> turkey
+A 690 640 230 200 4 2 // brazil -> canada
+A 1565 825 1070 290 3 1 // perth -> turkey
+A 1070 290 230 200 6 5 // turkey -> canada
+A 1340 500 1565 825 4 2 // india -> perth
+A 1070 290 690 640 4 0 // turkey -> brazil
+A 230 200 1340 500 5 2 // canada -> india
+A 1340 500 1160 550 6 10 // india -> somalia
+A 470 310 1565 825 5 9 // new-york -> perth
+A 470 310 1160 550 3 3 // new-york -> somalia
+A 690 640 1500 630 3 2 // brazil -> jakarta
+A 250 315 1470 480 3 12 // los-angeles -> thailand
+A 1500 630 230 200 5 14 // jakarta -> canada
+A 250 315 470 310 6 14 // los-angeles -> new-york
+A 1565 825 1160 550 4 20 // perth -> somalia
+A 1340 500 470 310 3 17 // india -> new-york
+A 1500 630 230 200 6 4 // jakarta -> canada
+A 1070 290 690 640 6 7 // turkey -> brazil
+A 250 315 470 310 3 15 // los-angeles -> new-york
+A 690 640 250 315 3 3 // brazil -> los-angeles
+A 250 315 1160 550 3 6 // los-angeles -> somalia
+A 1470 480 1340 500 5 2 // thailand -> india
+A 470 310 1500 630 5 11 // new-york -> jakarta
+A 1340 500 470 310 3 3 // india -> new-york
+A 1070 290 1500 630 3 14 // turkey -> jakarta
+A 1070 290 1340 500 6 15 // turkey -> india
+A 1340 500 690 640 6 0 // india -> brazil
+A 1160 550 690 640 4 0 // somalia -> brazil
+A 250 315 1160 550 6 18 // los-angeles -> somalia
+A 250 315 230 200 4 7 // los-angeles -> canada
+A 1070 290 250 315 4 14 // turkey -> los-angeles
+A 1500 630 1340 500 5 8 // jakarta -> india
+A 230 200 1565 825 4 1 // canada -> perth
+A 1565 825 470 310 3 18 // perth -> new-york
+A 1470 480 250 315 4 17 // thailand -> los-angeles
+A 250 315 1070 290 4 19 // los-angeles -> turkey
+A 1470 480 1500 630 6 15 // thailand -> jakarta
+T 1565 825 52 // perth
+T 690 640 63 // brazil
+T 250 315 75 // los-angeles
+T 470 310 97 // new-york
+T 1500 630 60 // jakarta
+T 1160 550 45 // somalia
+T 1070 290 56 // turkey
+T 230 200 82 // canada
+T 1340 500 75 // india
+T 1470 480 60 // thailand

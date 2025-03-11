@@ -1,0 +1,15 @@
+A 990 660 1695 635 116 4 // angola -> new-guinea
+A 230 200 945 545 141 8 // canada -> nigeria
+A 1695 635 230 200 161 0 // new-guinea -> canada
+A 945 545 880 330 161 20 // nigeria -> maroc
+A 1695 635 880 330 151 7 // new-guinea -> maroc
+A 990 660 230 200 161 18 // angola -> canada
+A 230 200 945 545 116 19 // canada -> nigeria
+A 230 200 880 330 151 6 // canada -> maroc
+A 945 545 1695 635 131 12 // nigeria -> new-guinea
+A 230 200 990 660 159 9 // canada -> angola
+T 945 545 56 // nigeria
+T 230 200 82 // canada
+T 1695 635 45 // new-guinea
+T 990 660 45 // angola
+T 880 330 56 // maroc

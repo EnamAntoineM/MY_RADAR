@@ -1,0 +1,135 @@
+A 1190 405 1695 635 6 5 // dubai -> new-guinea
+A 230 200 1070 290 3 2 // canada -> turkey
+A 340 435 1125 190 5 6 // mexico -> moscow
+A 510 860 250 315 5 15 // chile -> los-angeles
+A 920 220 650 110 5 11 // france -> groenland
+A 1070 290 1470 480 4 14 // turkey -> thailand
+A 1090 580 945 545 5 18 // uganda -> nigeria
+A 1160 750 1020 830 3 7 // madagascar -> south-africa
+A 650 110 1680 310 6 16 // groenland -> japan
+A 1565 825 510 860 6 4 // perth -> chile
+A 495 550 1735 855 3 20 // colombia -> sydney
+A 495 675 1565 825 6 18 // peru -> perth
+A 990 660 1695 635 5 20 // angola -> new-guinea
+A 1390 300 495 550 6 3 // mongolia -> colombia
+A 690 640 1565 825 6 9 // brazil -> perth
+A 1160 750 690 640 6 2 // madagascar -> brazil
+A 1035 165 1190 405 4 18 // estonia -> dubai
+A 340 435 1680 310 4 15 // mexico -> japan
+A 1090 580 920 220 4 15 // uganda -> france
+A 1160 550 1540 405 6 8 // somalia -> china
+A 1020 830 340 435 5 9 // south-africa -> mexico
+A 1020 830 1125 190 3 16 // south-africa -> moscow
+A 1735 855 1540 405 3 6 // sydney -> china
+A 1680 310 1160 550 3 10 // japan -> somalia
+A 250 315 1190 405 6 20 // los-angeles -> dubai
+A 920 220 1340 500 4 3 // france -> india
+A 1160 750 470 310 6 17 // madagascar -> new-york
+A 920 220 1390 300 3 6 // france -> mongolia
+A 1125 190 470 310 5 12 // moscow -> new-york
+A 1565 825 495 550 4 15 // perth -> colombia
+A 1035 165 470 310 5 7 // estonia -> new-york
+A 1855 920 620 795 5 8 // new-zealand -> argentina
+A 1565 825 1500 630 3 14 // perth -> jakarta
+A 495 550 620 795 6 12 // colombia -> argentina
+A 470 310 820 490 6 3 // new-york -> senegal
+A 1160 550 920 220 6 18 // somalia -> france
+A 1565 825 1070 375 3 2 // perth -> egypt
+A 230 200 650 110 4 10 // canada -> groenland
+A 650 110 880 330 5 0 // groenland -> maroc
+A 1470 480 1125 190 6 8 // thailand -> moscow
+A 1855 920 1190 405 3 17 // new-zealand -> dubai
+A 1125 190 250 315 6 17 // moscow -> los-angeles
+A 650 110 990 660 5 11 // groenland -> angola
+A 620 795 1070 375 5 7 // argentina -> egypt
+A 1695 635 1125 190 3 15 // new-guinea -> moscow
+A 690 640 920 220 6 8 // brazil -> france
+A 1680 310 1390 300 4 11 // japan -> mongolia
+A 1565 825 1070 375 3 18 // perth -> egypt
+A 1035 165 1855 920 6 0 // estonia -> new-zealand
+A 495 675 1695 635 4 7 // peru -> new-guinea
+A 1090 580 920 220 3 7 // uganda -> france
+A 1340 500 1070 290 6 7 // india -> turkey
+A 1020 830 1695 635 4 16 // south-africa -> new-guinea
+A 880 330 495 675 5 9 // maroc -> peru
+A 1160 550 1070 375 3 6 // somalia -> egypt
+A 650 110 1160 750 4 5 // groenland -> madagascar
+A 650 110 1500 630 3 14 // groenland -> jakarta
+A 1470 480 470 310 5 11 // thailand -> new-york
+A 945 545 1680 310 4 14 // nigeria -> japan
+A 620 795 1125 190 6 5 // argentina -> moscow
+A 1090 580 1855 920 3 7 // uganda -> new-zealand
+A 250 315 945 545 4 20 // los-angeles -> nigeria
+A 820 490 1160 750 4 19 // senegal -> madagascar
+A 340 435 880 330 4 0 // mexico -> maroc
+A 1735 855 650 110 4 18 // sydney -> groenland
+A 1680 310 27 135 6 20 // japan -> alaska
+A 690 640 1680 310 5 20 // brazil -> japan
+A 1160 550 1500 630 6 12 // somalia -> jakarta
+A 880 330 920 220 5 8 // maroc -> france
+A 470 310 1070 290 4 2 // new-york -> turkey
+A 250 315 340 435 4 9 // los-angeles -> mexico
+A 1190 405 470 310 4 5 // dubai -> new-york
+A 230 200 1160 750 3 14 // canada -> madagascar
+A 340 435 1680 310 5 20 // mexico -> japan
+A 990 660 920 220 3 14 // angola -> france
+A 880 330 620 795 6 3 // maroc -> argentina
+A 1340 500 1565 825 3 3 // india -> perth
+A 1070 375 990 660 3 16 // egypt -> angola
+A 1190 405 1500 630 5 12 // dubai -> jakarta
+A 1070 290 920 220 4 7 // turkey -> france
+A 1540 405 1035 165 4 18 // china -> estonia
+A 1160 550 1500 630 3 3 // somalia -> jakarta
+A 1070 290 1735 855 5 14 // turkey -> sydney
+A 495 675 1470 480 5 19 // peru -> thailand
+A 990 660 1160 750 4 15 // angola -> madagascar
+A 1020 830 1340 500 5 0 // south-africa -> india
+A 1070 290 1680 310 6 12 // turkey -> japan
+A 990 660 1680 310 4 10 // angola -> japan
+A 1470 480 1735 855 3 8 // thailand -> sydney
+A 340 435 1390 300 4 8 // mexico -> mongolia
+A 1070 375 920 220 6 14 // egypt -> france
+A 510 860 230 200 6 5 // chile -> canada
+A 1340 500 1090 580 3 3 // india -> uganda
+A 1160 550 495 675 3 15 // somalia -> peru
+A 1160 550 1680 310 5 14 // somalia -> japan
+A 470 310 1390 300 3 0 // new-york -> mongolia
+A 340 435 650 110 6 3 // mexico -> groenland
+A 1090 580 1035 165 6 13 // uganda -> estonia
+A 1470 480 1855 920 4 17 // thailand -> new-zealand
+A 1470 480 1680 310 3 11 // thailand -> japan
+T 1735 855 63 // sydney
+T 990 660 45 // angola
+T 1340 500 75 // india
+T 1540 405 90 // china
+T 1090 580 37 // uganda
+T 1160 550 45 // somalia
+T 1070 375 60 // egypt
+T 470 310 97 // new-york
+T 1695 635 45 // new-guinea
+T 1855 920 52 // new-zealand
+T 945 545 56 // nigeria
+T 230 200 82 // canada
+T 495 675 52 // peru
+T 340 435 67 // mexico
+T 1390 300 52 // mongolia
+T 920 220 82 // france
+T 510 860 45 // chile
+T 690 640 63 // brazil
+T 880 330 56 // maroc
+T 250 315 75 // los-angeles
+T 820 490 56 // senegal
+T 27 135 60 // alaska
+T 495 550 52 // colombia
+T 1020 830 63 // south-africa
+T 1070 290 56 // turkey
+T 1035 165 37 // estonia
+T 1160 750 37 // madagascar
+T 1470 480 60 // thailand
+T 1125 190 60 // moscow
+T 1500 630 60 // jakarta
+T 650 110 37 // groenland
+T 1680 310 75 // japan
+T 1190 405 67 // dubai
+T 1565 825 52 // perth
+T 620 795 56 // argentina
