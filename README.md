@@ -30,7 +30,7 @@ There are scripts to test the program under the tests/ directory.
 
 https://github.com/user-attachments/assets/3f396367-f2b8-4b09-b348-defa1e4eeeaf
 
-###FOR FOR DETAILS
+### FOR FOR DETAILS
 For more details, access this pdf file [B-MUL-100_my_radar.pdf](https://github.com/user-attachments/files/19187911/B-MUL-100_my_radar.pdf)
 
 It is available in the pdf directory of the project.
