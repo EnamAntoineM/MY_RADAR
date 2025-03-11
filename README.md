@@ -19,10 +19,8 @@ A script file determines the positions of the towers, the starting towers of
 each plane, as well as its speed and delay before take off.
 There are scripts to test the program under the tests/ directory.
 
-![Script generator usage](assets/screenshots/script_generator_usage.png)
-
 ### Screenshots!
-[Screenshot From 2025-03-11 15-11-00](https://github.com/user-attachments/assets/bdac4a23-0be5-441c-9abb-e5a9657e1bdb)
+https://github.com/user-attachments/assets/bdac4a23-0be5-441c-9abb-e5a9657e1bdb
 
 ### Video preview
 
