@@ -1,4 +1,4 @@
-## my_radar
+## my_radar ( EPITECH PROJECT )
 
 - [Description](#description)
 - [Usage](#usage)
