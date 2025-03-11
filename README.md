@@ -15,6 +15,9 @@ continue on their way.
 ### Usage
 To run the program use the following command: ./my_radar [path to the script]
 
+![Screenshot From 2025-03-11 15-24-15](https://github.com/user-attachments/assets/bdcd1235-129e-49a3-a34c-c6c4286c7308)
+
+
 A script file determines the positions of the towers, the starting towers of
 each plane, as well as its speed and delay before take off.
 There are scripts to test the program under the tests/ directory.
