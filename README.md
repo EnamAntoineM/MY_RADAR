@@ -26,4 +26,6 @@ There are scripts to test the program under the tests/ directory.
 
 ### Video preview
 
-[Click here to see a video preview](https://www.youtube.com/watch?v=P4hhDQJPtls)
+https://github.com/user-attachments/assets/3f396367-f2b8-4b09-b348-defa1e4eeeaf
+
+
