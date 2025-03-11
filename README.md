@@ -20,7 +20,7 @@ each plane, as well as its speed and delay before take off.
 There are scripts to test the program under the tests/ directory.
 
 ### Screenshots!
-https://github.com/user-attachments/assets/bdac4a23-0be5-441c-9abb-e5a9657e1bdb
+[A screenshot of the program running](https://github.com/user-attachments/assets/bdac4a23-0be5-441c-9abb-e5a9657e1bdb)
 
 ### Video preview
 
