@@ -35,5 +35,7 @@ For more details, access this pdf file [B-MUL-100_my_radar.pdf](https://github.c
 
 It is available in the pdf directory of the project.
 
+## TO DO: IMPROVE THE LOGIC FOR THE COLLISION CHECKING TO RUN LARGER SIMULATIONS.
+
 
 
