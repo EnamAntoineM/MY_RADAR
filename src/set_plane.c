@@ -32,11 +32,12 @@ void set_plane(Plane *planes, Win *winc)
         exit(84);
     }
     for (int i = 0; i < winc->p; i++){
+        planes[i].sprite = sfSprite_create(winc->txaffy);
         if (!planes[i].sprite){
             fprintf(stderr, "Failed to create sprite for the plane");
             exit(84);
         }
-        sfSprite_setTexture(planes[i].sprite, winc->txaffy, sfTrue);
+        sfSprite_setTexture(planes[i].sprite, winc->txaffy, true);
         winc->plscale = (sfVector2f){0.08, 0.08};
         sfSprite_setScale(planes[i].sprite, winc->plscale);
         sfSprite_setOrigin(planes[i].sprite, (sfVector2f){142.5, 134});

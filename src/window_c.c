@@ -38,7 +38,7 @@ void c_map(Win *winc)
     sfVector2f scale = {0.499, 0.465};
 
     winc->window = sfRenderWindow_create(mode, "My radar",
-        sfResize | sfClose, NULL);
+        sfResize | sfClose, sfWindowed, NULL);
     if (!winc->window)
         exit(84);
     sfRenderWindow_setFramerateLimit(winc->window, 60);
@@ -48,8 +48,8 @@ void c_map(Win *winc)
         fprintf(stderr, "Failed to load the map");
         exit(84);
     }
-    winc->sprite = sfSprite_create();
-    sfSprite_setTexture(winc->sprite, winc->texture, sfTrue);
+    winc->sprite = sfSprite_create(winc->texture);
+    sfSprite_setTexture(winc->sprite, winc->texture, true);
     sfSprite_setScale(winc->sprite, scale);
     winc->clock = sfClock_create();
 }

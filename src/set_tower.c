@@ -16,12 +16,12 @@ void set_tower(Win *winc)
         sfTexture_destroy(winc->towaffy);
         exit(84);
     }
-    winc->sowaffy = sfSprite_create();
+    winc->sowaffy = sfSprite_create(winc->towaffy);
     if (!winc->sowaffy){
         fprintf(stderr, "Failed to create sprite for the tower");
         exit(84);
     }
-    sfSprite_setTexture(winc->sowaffy, winc->towaffy, sfTrue);
+    sfSprite_setTexture(winc->sowaffy, winc->towaffy, true);
     winc->towscale = (sfVector2f){0.1, 0.1};
     sfSprite_setScale(winc->sowaffy, winc->towscale);
     sfSprite_setOrigin(winc->sowaffy, (sfVector2f){250, 250});

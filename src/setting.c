@@ -7,7 +7,7 @@
 
 #include "../lib/my.h"
 
-void remaining(Plane *planes, int i)
+void remaining(Plane *planes, int i, Win *winc)
 {
     planes[i].collided = false;
     planes[i].takeoff = false;
@@ -16,7 +16,7 @@ void remaining(Plane *planes, int i)
     planes[i].airport = false;
     planes[i].turn = angle(planes, i);
     planes[i].move = false;
-    planes[i].sprite = sfSprite_create();
+    //planes[i].sprite = sfSprite_create(winc->txaffy);
 }
 
 void fill_fly(char **str, Plane *planes, Win *winc)
@@ -33,7 +33,7 @@ void fill_fly(char **str, Plane *planes, Win *winc)
                 atof(espace[4])};
             planes[i].speed = atof(espace[5]);
             planes[i].vol = atof(espace[6]);
-            remaining(planes, i);
+            remaining(planes, i, winc);
             i++;
         }
     }
