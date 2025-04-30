@@ -1,7 +1,4 @@
-## my_radar
-
-[![pipeline status](https://gitlab.com/julienp17/my_radar/badges/master/pipeline.svg)](https://gitlab.com/julienp17/my_radar/commits/master)
-[![coverage report](https://gitlab.com/julienp17/my_radar/badges/master/coverage.svg)](https://gitlab.com/julienp17/my_radar/commits/master)
+## my_radar ( EPITECH PROJECT )
 
 - [Description](#description)
 - [Usage](#usage)
@@ -10,38 +7,35 @@
 ### Description
 
 my_radar is an air traffic graphical simulation.
-Planes fly from a control tower to another, and reset when they reach their
+Planes fly from one control tower to the other and reset when they reach their
 destination or collide with one another.
 Two planes colliding within a tower control area are not destroyed and can
 continue on their way.
 
-I used an [AABB](https://www.youtube.com/watch?v=59BTXB-kFNs) (Axis Aligned
-Bounding Box) algorithm for collision detection and a [quadtree](https://www.youtube.com/watch?v=OJxEcs0w_kE) spatial
-partitionning to reduce the number of checks per plane.
-
-The root version of this project is used for my Epitech delivery and contains no banned functions. Please use the version located in the bonus directory if you wish to use all features, which includes :
-- a start menu
-- displaying the quadtree
-- a day and night cycle
-- pausing the simulation
-
 ### Usage
 
-![my_radar usage](assets/screenshots/my_radar_usage.png)
+To run the program use the following command: ./my_radar [path to the script]
+
+![Screenshot From 2025-03-11 15-24-15](https://github.com/user-attachments/assets/bdcd1235-129e-49a3-a34c-c6c4286c7308)
+
 
 A script file determines the positions of the towers, the starting towers of
-each plane, aswell as its speed and delay before take off.
-There are scripts to test the program under the assets/scripts directory.
-You can make your own with ./script_generator.py :
+each plane, as well as its speed and delay before take off.
+There are scripts to test the program under the tests/ directory.
 
-![Script generator usage](assets/screenshots/script_generator_usage.png)
-
-### Screenshots
-
-![Start Menu](assets/backgrounds/start_menu.png)
-
-![Simulation Screeshot](assets/screenshots/sim_screenshot.png)
+### Screenshots!
+![A screenshot of the program running](https://github.com/user-attachments/assets/bdac4a23-0be5-441c-9abb-e5a9657e1bdb)
 
 ### Video preview
 
-[Click here to see a video preview](https://www.youtube.com/watch?v=P4hhDQJPtls)
+https://github.com/user-attachments/assets/3f396367-f2b8-4b09-b348-defa1e4eeeaf
+
+### FOR FOR DETAILS
+For more details, access this pdf file [B-MUL-100_my_radar.pdf](https://github.com/user-attachments/files/19187911/B-MUL-100_my_radar.pdf)
+
+It is available in the pdf directory of the project.
+
+## TO DO: IMPROVE THE LOGIC FOR THE COLLISION CHECKING TO RUN LARGER SIMULATIONS.
+
+
+
