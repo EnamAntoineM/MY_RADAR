@@ -11,7 +11,7 @@ void hitbox(Win *winc, Plane *planes, int i)
 {
     planes[i].sqsize = (sfVector2f){20, 20};
     sfRectangleShape_setSize(planes[i].hitbox, planes[i].sqsize);
-    if (planes[i].immune){
+    if (planes[i].immune) {
         sfRectangleShape_setOutlineColor(planes[i].hitbox, sfGreen);
     } else {
         sfRectangleShape_setOutlineColor(planes[i].hitbox, sfRed);

@@ -24,6 +24,7 @@
         double frmtime;
         int t;
         int p;
+        pthread_mutex_t *mutex;
     } Win;
 #endif
 

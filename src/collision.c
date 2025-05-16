@@ -43,7 +43,7 @@ void cond2(Plane *planes, int i, int j)
 void cond1(Plane *planes, Win *winc, int i)
 {
     if (!planes[i].collided) {
-        for (int j = 0; j < winc->p; j++) {
+        for (int j = i + 1; j < winc->p; j++) {
             cond2(planes, i, j);
         }
     }

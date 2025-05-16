@@ -24,6 +24,7 @@ void cond(Plane *planes, int i)
     }
 }
 
+
 void countd(Plane *planes, Win *winc)
 {
     for (int i = 0; i < winc->p; i++) {

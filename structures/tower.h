@@ -12,6 +12,7 @@
         sfVector2f scale;
         sfVector2f position;
         sfCircleShape *circle;
+        bool render_once;
         double radius;
     } Tower;
 #endif

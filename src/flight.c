@@ -53,13 +53,13 @@ void move(Plane *planes, double frmtime, int i, Win *winc)
             set(planes, frmtime, i);
         }
     } else {
+        printf("Plane %d: Reached destination. Marking as at airport.\n", i);
         planes[i].airport = true;
     }
 }
 
 void tower(Win *winc, Tower *towers, int j)
 {
-    towers[j].circle = sfCircleShape_create();
     sfSprite_setPosition(winc->sowaffy, towers[j].position);
     sfRenderWindow_drawSprite(winc->window, winc->sowaffy, NULL);
     sfCircleShape_setRadius(towers[j].circle, towers[j].radius);

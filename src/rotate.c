@@ -11,6 +11,7 @@ double angle(Plane *planes, int i)
 {
     double cordx = planes[i].destination.x - planes[i].position.x;
     double cordy = planes[i].destination.y - planes[i].position.y;
+    double result = atan2(cordy, cordx) * (180.0 / M_PI);
 
-    return atan2(cordy, cordx) * (180.0 / M_PI);
+    return result;
 }

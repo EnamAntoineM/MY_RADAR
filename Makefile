@@ -10,9 +10,10 @@ SRC     = $(wildcard *.c) $(shell find ./src -name '*.c')  # Source files in roo
 OBJ     = $(SRC:.c=.o)                                     # Object files
 NAME    = my_radar                                         # Executable name
 CC      = gcc                                              # Compiler
-CFLAGS  = -Wall -Wextra -Werror -I/usr/include -Wno-error               # Compiler flags
+CFLAGS  = -O3 -march=native -mtune=native -flto -ffast-math -fomit-frame-pointer -funroll-loops \
+         -finline-functions -fdata-sections -ffunction-sections -Wall -Wextra -pthread -Werror -I/usr/include -Wno-error               # Compiler flags
 HEADERS = $(shell find -name '*.h')              # Dynamically find all header files
-LDFLAGS = -lcsfml-graphics -lcsfml-window -lcsfml-system -lcsfml-audio -lm # Linker flags
+LDFLAGS = -lcsfml-graphics -lcsfml-window -lcsfml-system -lcsfml-audio -lm -flto -Wl,--gc-sections -s # Linker flags
 
 # Default target
 all: $(NAME)
