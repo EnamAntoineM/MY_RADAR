@@ -1,6 +1,7 @@
 ## my_radar ( EPITECH PROJECT )
 
 - [Description](#description)
+- [Requirements](#requirements)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 
@@ -11,6 +12,15 @@ Planes fly from one control tower to the other and reset when they reach their
 destination or collide with one another.
 Two planes colliding within a tower control area are not destroyed and can
 continue on their way.
+
+### REQUIREMENTS
+- CSFML 3.0
+- GCC COMPILER
+- BUILD WITH:
+  
+    ```bash
+   make re && make clean
+   ```
 
 ### Usage
 
